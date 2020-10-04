@@ -1,11 +1,11 @@
 ---
 created: 2020-10-03T20:52:40+09:00
-modified: 2020-10-04T11:09:36+09:00
+modified: 2020-10-04T11:56:25+09:00
 ---
 
 # What Do We Mean By "Rationality"?
 
-원문 - LessWrong forum "What Do We Mean By "Rationality"?(written by Eliezer Yudkowsky) : https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1
+원문 : [LessWrong forum "What Do We Mean By "Rationality"?(written by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1)
 
 -----------------
 
