@@ -1,9 +1,9 @@
 ---
 created: 2020-10-03T20:52:40+09:00
-modified: 2020-10-04T12:46:27+09:00
+modified: 2020-10-04T12:49:29+09:00
 ---
 
-# What Do We Mean By "Rationality"?
+# "합리성"이란 무엇을 의미하는가?
 
 원문 : [LessWrong forum "What Do We Mean By "Rationality"?(written by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1)
 
